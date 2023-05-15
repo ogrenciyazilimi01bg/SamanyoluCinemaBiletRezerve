@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Samanyolu Cinema Bilet Rezerve/1.0.0": {
+        "runtime": {
+          "Samanyolu Cinema Bilet Rezerve.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Samanyolu Cinema Bilet Rezerve/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

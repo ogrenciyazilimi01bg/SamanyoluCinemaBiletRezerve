@@ -1,0 +1,15 @@
+C:\Users\kullanıcı\source\repos\Samanyolu Cinema Bilet Rezerve\Samanyolu Cinema Bilet Rezerve\bin\Debug\net6.0\Samanyolu Cinema Bilet Rezerve.exe
+C:\Users\kullanıcı\source\repos\Samanyolu Cinema Bilet Rezerve\Samanyolu Cinema Bilet Rezerve\bin\Debug\net6.0\Samanyolu Cinema Bilet Rezerve.deps.json
+C:\Users\kullanıcı\source\repos\Samanyolu Cinema Bilet Rezerve\Samanyolu Cinema Bilet Rezerve\bin\Debug\net6.0\Samanyolu Cinema Bilet Rezerve.runtimeconfig.json
+C:\Users\kullanıcı\source\repos\Samanyolu Cinema Bilet Rezerve\Samanyolu Cinema Bilet Rezerve\bin\Debug\net6.0\Samanyolu Cinema Bilet Rezerve.dll
+C:\Users\kullanıcı\source\repos\Samanyolu Cinema Bilet Rezerve\Samanyolu Cinema Bilet Rezerve\bin\Debug\net6.0\Samanyolu Cinema Bilet Rezerve.pdb
+C:\Users\kullanıcı\source\repos\Samanyolu Cinema Bilet Rezerve\Samanyolu Cinema Bilet Rezerve\obj\Debug\net6.0\Samanyolu Cinema Bilet Rezerve.csproj.AssemblyReference.cache
+C:\Users\kullanıcı\source\repos\Samanyolu Cinema Bilet Rezerve\Samanyolu Cinema Bilet Rezerve\obj\Debug\net6.0\Samanyolu Cinema Bilet Rezerve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kullanıcı\source\repos\Samanyolu Cinema Bilet Rezerve\Samanyolu Cinema Bilet Rezerve\obj\Debug\net6.0\Samanyolu Cinema Bilet Rezerve.AssemblyInfoInputs.cache
+C:\Users\kullanıcı\source\repos\Samanyolu Cinema Bilet Rezerve\Samanyolu Cinema Bilet Rezerve\obj\Debug\net6.0\Samanyolu Cinema Bilet Rezerve.AssemblyInfo.cs
+C:\Users\kullanıcı\source\repos\Samanyolu Cinema Bilet Rezerve\Samanyolu Cinema Bilet Rezerve\obj\Debug\net6.0\Samanyolu Cinema Bilet Rezerve.csproj.CoreCompileInputs.cache
+C:\Users\kullanıcı\source\repos\Samanyolu Cinema Bilet Rezerve\Samanyolu Cinema Bilet Rezerve\obj\Debug\net6.0\Samanyolu Cinema Bilet Rezerve.dll
+C:\Users\kullanıcı\source\repos\Samanyolu Cinema Bilet Rezerve\Samanyolu Cinema Bilet Rezerve\obj\Debug\net6.0\refint\Samanyolu Cinema Bilet Rezerve.dll
+C:\Users\kullanıcı\source\repos\Samanyolu Cinema Bilet Rezerve\Samanyolu Cinema Bilet Rezerve\obj\Debug\net6.0\Samanyolu Cinema Bilet Rezerve.pdb
+C:\Users\kullanıcı\source\repos\Samanyolu Cinema Bilet Rezerve\Samanyolu Cinema Bilet Rezerve\obj\Debug\net6.0\Samanyolu Cinema Bilet Rezerve.genruntimeconfig.cache
+C:\Users\kullanıcı\source\repos\Samanyolu Cinema Bilet Rezerve\Samanyolu Cinema Bilet Rezerve\obj\Debug\net6.0\ref\Samanyolu Cinema Bilet Rezerve.dll
