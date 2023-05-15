@@ -10,7 +10,7 @@ Salon Class’ı içerisinde: Salon adı ve salon kapasitesi özellikleri yer al
 Seans Class’ı içerisinde: Film class’ından film, salon class’ından salon özellikleri türetilir. Bu class’ın içerisinde seans zamanı ve tarihi özellikleri yer almaktadır.
 Rezervasyon Class’ı içerisinde: Seans class’ından seans türetilir. Müşteri adı, soyadı, bilet adedi, koltuk no ve müşteri cep telefonu özellikleri yer almaktadır.
 Bilgi Class’ı içerisinde: Rezervasyon class’ı içerisinde rezervasyon özellik türetilir ve bilet fiyatı özellik yer almaktadır.
-GirisEkranı :Buradan program ilerleyecek ve kullanıcıdan bilgiler isteyerek uygulama çalışmaya devam edecektir.
+GirisEkranı Class'ı içerisinde :Buradan program ilerleyecek ve kullanıcıdan bilgiler isteyerek uygulama çalışmaya devam edecektir.
 
 ### Consol uygulaması bu şekilde çalışır:
 1)Aşağıdaki filmlerden birini seçiniz yazar. Filmleri ve film hakkında bilgiler yazar. Kulllanıcıdan bir film sayısı girmesi istenir.Yazılı olan film numaralarından girin.
