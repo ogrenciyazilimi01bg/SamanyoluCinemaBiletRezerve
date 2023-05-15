@@ -19,6 +19,6 @@ GirisEkranı Class'ı içerisinde :Buradan program ilerleyecek ve kullanıcıdan
 4) Müsteri adı soyadı girilir. Ekrana müşteri adı soyadı yazılır.
 5) Müsteri telefon No konsola girilir. .Örnek :(###)-###-##-##
 6)Konsola boş koltuk sayısı ,koltuk yerleri ve dolu koltuklar çıkar.
-7) Kullanıcıdan bilet adeti girmesi istenir. Bilet adeti kadar koltuk numarası boş mu kontrol edilir. Değilse tekrar koltuk numarası girmesi istenir. Yeterl i koltuk adeti varsa .İşleme devam edilir. Bilet adeti ekrana çıkar ve toplam  fiyatı yazar.
+7) Kullanıcıdan bilet adeti girmesi istenir. Bilet adeti kadar koltuk numarası boş mu kontrol edilir. Değilse tekrar koltuk numarası girmesi istenir. Yeterli koltuk adeti varsa .İşleme devam edilir. Bilet adeti ekrana çıkar ve toplam  fiyatı yazar.
 8)Bilet adeti kadar koltuk numarası girilmesi istenir. Kullanıcı bilet adeti kadar koltuk numaralarını tek tek girer.
 9)Oluşturulan bilet konsolda çıkar. Ve işlem başarılı yazısı çıkar.
