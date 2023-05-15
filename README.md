@@ -14,11 +14,11 @@ GirisEkranı Class'ı içerisinde :Buradan program ilerleyecek ve kullanıcıdan
 
 ### Consol uygulaması bu şekilde çalışır:
 1)Aşağıdaki filmlerden birini seçiniz yazar. Filmleri ve film hakkında bilgiler yazar. Kulllanıcıdan bir film sayısı girmesi istenir.Yazılı olan film numaralarından girin.
-2)Film numarasına göre filmin salonu hakkında bilgiler ekrana yazıcak. Ardından tarih seçmeniz istenir.Bugün seçerseniz işleme devam eder başka bir tarihi seçerseniz kullanıcıdan ekrana tarih girmesi istenir.Örnek:14.05.2023 gibi.
-3) Seans saatleri çıkıcak. Kullanıcı seans saati seçecek. 
+2)Film numarasına göre filmin salonu hakkında bilgiler ekrana yazacak. Ardından tarih seçmeniz istenir.Bugün seçerseniz işleme devam eder başka bir tarihi seçerseniz kullanıcıdan ekrana tarih girmesi istenir.Örnek:14.05.2023 gibi.
+3) Seans saatleri çıkacak. Kullanıcı seans saati seçecek. 
 4) Müsteri adı soyadı girilir. Ekrana müşteri adı soyadı yazılır.
-5) Müsteri telefon No konsola girilir. .Örnek :(###)-###-##-##
+5) Müsteri telefon no konsola girilir. .Örnek :(###)-###-##-##
 6)Konsola boş koltuk sayısı ,koltuk yerleri ve dolu koltuklar çıkar.
-7) Kullanıcıdan bilet adeti girmesi istenir. Bilet adeti kadar koltuk numarası boş mu kontrol edilir. Değilse tekrar koltuk numarası girmesi istenir. Yeterli koltuk adeti varsa .İşleme devam edilir. Bilet adeti ekrana çıkar ve toplam  fiyatı yazar.
+7) Kullanıcıdan bilet adeti girmesi istenir. Bilet adeti kadar koltuk numarası boş mu kontrol edilir. Değilse tekrar koltuk numarası girmesi istenir. Yeterli koltuk adeti varsa işleme devam edilir. Bilet adeti ekrana çıkar ve toplam  fiyatı yazar.
 8)Bilet adeti kadar koltuk numarası girilmesi istenir. Kullanıcı bilet adeti kadar koltuk numaralarını tek tek girer.
 9)Oluşturulan bilet konsolda çıkar. Ve işlem başarılı yazısı çıkar.
